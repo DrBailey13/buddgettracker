@@ -1,5 +1,8 @@
 # budgettracker
 
+![deployed_application](assets/budget.png)
+
+
 ## Installation
 
 No installation is necessary
